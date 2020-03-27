@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mood</string>
+
+    <string name="hello">Hello World!</string>
+    <string name="this_is_a_picture">This is a picture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">user Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="android">Android</string>
+    <string name="egypt_font">Egypt Font</string>
+    <string name="fire_bender_font">Fire Bender Font</string>
+</resources>
