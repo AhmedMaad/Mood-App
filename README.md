@@ -1,5 +1,4 @@
 # Mood-App
-# G3an-App
 ### (for my brilliant students)
 Android application that uses explicit intent, text input edit text, and custom fonts with Android Studio and XML.
 
